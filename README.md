@@ -1,4 +1,6 @@
-# Leetcode-Practise
+# LeetCode Solutions following Striver's SDE Sheet. - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+
 
 
 # Array
@@ -27,3 +29,5 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0062-unique-paths) |
+
+ [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
