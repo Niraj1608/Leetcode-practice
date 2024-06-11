@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
+| [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
@@ -32,3 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0002-add-two-numbers) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
