@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 # Array
 |  |
 | ------- |
@@ -15,8 +16,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
 # Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
+# Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
