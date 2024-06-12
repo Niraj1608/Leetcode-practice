@@ -41,8 +41,13 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 # Simulation
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
+# String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0020-valid-parentheses) |
