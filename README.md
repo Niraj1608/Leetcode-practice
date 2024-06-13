@@ -44,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 # Simulation
 |  |
@@ -58,7 +59,9 @@
 | ------- |
 | [0155-min-stack](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 # Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
