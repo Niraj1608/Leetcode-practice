@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
 # Hash Table
 |  |
@@ -37,6 +38,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 # Stack
 |  |
@@ -65,3 +67,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
