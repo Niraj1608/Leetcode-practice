@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
 # Hash Table
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0050-powx-n) |
 # Dynamic Programming
 |  |
 | ------- |
