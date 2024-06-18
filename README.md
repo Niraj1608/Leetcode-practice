@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 # Recursion
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0155-min-stack](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 # Simulation
 |  |
@@ -87,3 +90,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
