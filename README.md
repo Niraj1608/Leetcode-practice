@@ -10,6 +10,7 @@
 # Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
@@ -22,6 +23,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
@@ -99,3 +101,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
+# Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0015-3sum) |
