@@ -17,6 +17,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
+| [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -105,3 +106,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0015-3sum) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
