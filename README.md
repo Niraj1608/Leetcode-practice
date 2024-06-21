@@ -20,6 +20,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0015-3sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
 |  |
 | ------- |
