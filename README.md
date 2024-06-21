@@ -18,6 +18,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -55,6 +56,7 @@
 | [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 # Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 # Simulation
 |  |
@@ -109,6 +112,7 @@
 | [0042-trapping-rain-water](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 # Sorting
 |  |
 | ------- |
