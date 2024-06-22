@@ -20,6 +20,7 @@
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1675-magnetic-force-between-two-balls) |
@@ -39,11 +40,13 @@
 | [0050-powx-n](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
 # Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
 |  |
 | ------- |
@@ -122,3 +125,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
