@@ -21,6 +21,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1675-magnetic-force-between-two-balls) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Memoization
 |  |
 | ------- |
@@ -126,3 +128,16 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
