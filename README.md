@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0943-sum-of-subarray-minimums) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Memoization
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -141,3 +145,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
