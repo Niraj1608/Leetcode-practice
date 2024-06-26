@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
 # Prefix Sum
 |  |
 | ------- |
@@ -153,15 +154,23 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1285-balance-a-binary-search-tree) |
