@@ -187,9 +187,26 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
