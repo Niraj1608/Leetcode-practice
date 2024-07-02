@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,4 +210,24 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
