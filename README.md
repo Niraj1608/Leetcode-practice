@@ -204,6 +204,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -258,4 +259,12 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
