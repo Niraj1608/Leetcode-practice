@@ -225,6 +225,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
