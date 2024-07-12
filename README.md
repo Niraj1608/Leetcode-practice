@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -226,6 +227,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
