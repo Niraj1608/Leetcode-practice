@@ -269,6 +269,7 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2846-robot-collisions) |
 ## String
