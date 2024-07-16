@@ -244,6 +244,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -259,12 +260,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Linked List
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
