@@ -204,6 +204,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1803-average-waiting-time) |
@@ -218,6 +219,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -245,6 +247,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -262,6 +265,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -270,6 +274,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Linked List
 |  |
