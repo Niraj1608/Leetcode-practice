@@ -195,6 +195,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2846-robot-collisions) |
@@ -214,6 +215,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -230,6 +232,7 @@
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
 ## Two Pointers
