@@ -186,6 +186,7 @@
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
