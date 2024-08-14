@@ -183,6 +183,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1829-maximum-units-on-a-truck) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -200,6 +201,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1829-maximum-units-on-a-truck](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1829-maximum-units-on-a-truck) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2846-robot-collisions) |
@@ -224,6 +226,7 @@
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1803-average-waiting-time) |
+| [1829-maximum-units-on-a-truck](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
