@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -335,6 +337,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
