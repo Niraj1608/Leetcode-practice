@@ -17,6 +17,7 @@ class Solution:
                     return False
                 
             else :
+                if five==0:return False
                 if five and ten :
                     ten-=1
                     five-=1
