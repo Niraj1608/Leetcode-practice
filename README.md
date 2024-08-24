@@ -179,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0890-lemonade-change) |
@@ -214,6 +215,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
@@ -390,5 +392,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
