@@ -191,6 +191,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
@@ -315,6 +316,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
@@ -398,4 +401,8 @@
 | ------- |
 | [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
