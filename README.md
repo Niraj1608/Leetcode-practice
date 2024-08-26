@@ -268,6 +268,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1720-crawler-log-folder) |
@@ -282,6 +283,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -317,6 +319,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
