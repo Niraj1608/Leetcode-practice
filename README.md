@@ -220,6 +220,7 @@
 | [0217-contains-duplicate](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1036-rotting-oranges) |
@@ -391,6 +393,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
+| [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 ## Union Find
 |  |
