@@ -223,6 +223,7 @@
 | [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -251,6 +252,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -345,6 +347,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
