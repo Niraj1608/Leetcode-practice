@@ -299,6 +299,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -320,6 +321,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -335,12 +337,14 @@
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -403,6 +407,7 @@
 | [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1036-rotting-oranges) |
+| [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
