@@ -267,6 +267,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -376,6 +377,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
