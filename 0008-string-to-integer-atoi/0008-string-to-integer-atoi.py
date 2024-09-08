@@ -1,35 +1,21 @@
 class Solution:
-    def atoi(self, s, num, sign=1, started=False):
-        # Base case: If the string is empty, return the accumulated number
-        if not s:
-            return sign * num
-        
-        # If the current character is a whitespace and we haven't started parsing digits, skip it
-        if s[0].isspace() and not started:
-            return self.atoi(s[1:], num, sign, started)
-        
-        # Handle sign at the beginning of the string
-        if (s[0] == '-' or s[0] == '+') and not started:
-            sign = -1 if s[0] == '-' else 1
-            return self.atoi(s[1:], num, sign, True)
-        
-        # If the current character is not a digit, stop the recursion and return the accumulated number
-        if not s[0].isdigit():
-            return sign * num
-        
-        # Accumulate the number
-        num = num * 10 + int(s[0])
-        
-        # Continue the recursion with the rest of the string
-        return self.atoi(s[1:], num, sign, True)
-
     def myAtoi(self, s: str) -> int:
-        # Call the recursive function with initial values
-        result = self.atoi(s.strip(), 0, 1, False)
-        
-        # Clamp the result to fit within the 32-bit signed integer range
-        if result < -2**31:
-            return -2**31
-        if result > 2**31 - 1:
-            return 2**31 - 1
-        return result
+        ans = ''
+        s=s.strip()
+        if s and (s[0].isdigit() or s[0] in ['-','+']):
+            for i in range(len(s)):
+                if s[i].isdigit() or (i==0 and s[i] in ['-','+']):
+                    ans += s[i]
+                else:
+                    break
+            if ans in ['-','+']:
+                ans = 0
+            else:
+                ans = int(ans)
+            if (2**31) - 1 < ans:
+                ans = (2**31) - 1
+            elif ans < -2**31:
+                ans = -2**31
+        else:
+            ans = 0
+        return ans
