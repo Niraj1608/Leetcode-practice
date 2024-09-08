@@ -19,3 +19,6 @@ class Solution:
         else:
             ans = 0
         return ans
+s= "42"
+
+Output: 42
