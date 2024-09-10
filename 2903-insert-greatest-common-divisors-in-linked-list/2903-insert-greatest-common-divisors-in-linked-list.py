@@ -5,7 +5,8 @@
 #         self.next = next
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def gcd(a,b):
+
+        def gcd (a,b):
             while b>0:
                 a,b=b,a%b
             return a 
@@ -15,6 +16,11 @@ class Solution:
             cur.next=ListNode(gcd(n1,n2),cur.next)
             cur=cur.next.next
         return head
+    
+    
+
+
+  
 
 
         
