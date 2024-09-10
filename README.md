@@ -353,6 +353,7 @@
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -361,6 +362,7 @@
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -466,4 +468,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
