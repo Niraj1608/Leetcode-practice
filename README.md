@@ -242,6 +242,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2035-count-sub-islands) |
+| [2155-find-missing-observations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
@@ -361,6 +362,7 @@
 | [0013-roman-to-integer](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -372,6 +374,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
