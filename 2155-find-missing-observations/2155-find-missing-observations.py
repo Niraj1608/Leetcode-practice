@@ -12,4 +12,8 @@ class Solution:
             missing-=curr
             n-=1
         return res
-        
+
+
+
+
+
