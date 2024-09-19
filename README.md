@@ -374,6 +374,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -402,6 +403,7 @@
 | [0013-roman-to-integer](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0539-minimum-time-difference) |
@@ -433,6 +435,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -478,6 +481,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0055-jump-game) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
 ## Union Find
@@ -511,4 +515,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
