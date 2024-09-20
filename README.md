@@ -403,6 +403,7 @@
 | [0013-roman-to-integer](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0451-sort-characters-by-frequency) |
@@ -519,4 +520,16 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
