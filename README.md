@@ -352,6 +352,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -532,4 +533,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
