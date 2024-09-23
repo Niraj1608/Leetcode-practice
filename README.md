@@ -255,6 +255,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -276,6 +277,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Niraj1608/Leetcode-Practise/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -421,6 +423,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -486,6 +489,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0542-01-matrix](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0678-valid-parenthesis-string) |
+| [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -538,4 +542,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
