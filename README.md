@@ -253,6 +253,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2472-build-a-matrix-with-conditions) |
@@ -291,6 +292,7 @@
 | [0455-assign-cookies](https://github.com/Niraj1608/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +403,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2645-pass-the-pillow) |
@@ -431,6 +434,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
