@@ -330,6 +330,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Niraj1608/Leetcode-Practise/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Niraj1608/Leetcode-Practise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Matrix
 |  |
 | ------- |
